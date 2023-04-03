@@ -27,6 +27,7 @@ while (num++ < 100)
 
 	else
 		printf("%d ", num);
+
 printf("\n");
 return (0);
 }
